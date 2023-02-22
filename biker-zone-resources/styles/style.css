@@ -1,0 +1,12 @@
+.carousel-control-prev-icon-bg, .carousel-control-next-icon-bg{
+    background-color: #be5757;
+    opacity: 30%;
+}
+
+.outline-color{
+    border: 1px solid #be5757;
+}
+
+.border-top-color{
+    border-top: none;
+}
